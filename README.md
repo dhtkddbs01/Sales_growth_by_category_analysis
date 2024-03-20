@@ -11,7 +11,14 @@
 - 대시보드를 활용하여 분석을 실시해보고자 진행하였습니다
 - a/b테스트를 배우고 이를 활용해보기 위해 실시했습니다.
 ***
-
+3. 데이터셋
+- Customer.csv : 고객의 인적 정보를 담고 있는 데이터
+  - customer_id, DOB, Gender, city_code
+- Transactions.csv : 거래 내역 데이터
+  - transaction_id, cust_id, tran_date, prod_sub_cat_code, prod_cat_code, Qty, Rate, Tax, total_amt, Store_type
+- prod_cat_info : 카테고리 코드/명칭 데이터
+  - prod_cat_code, prod_cat, prod_sub_cat_code, prod_subcat
+***
 
 상세
 --------
