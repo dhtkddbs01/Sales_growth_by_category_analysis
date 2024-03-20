@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "marketing_project-1",
+			"path": "."
+		},
+		{
+			"name": "image",
+			"path": "../marketing_project/image"
+		}
+	],
+	"settings": {}
+}
