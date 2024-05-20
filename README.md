@@ -18,7 +18,6 @@
   - transaction_id, cust_id, tran_date, prod_sub_cat_code, prod_cat_code, Qty, Rate, Tax, total_amt, Store_type
 - prod_cat_info : 카테고리 코드/명칭 데이터
   - prod_cat_code, prod_cat, prod_sub_cat_code, prod_subcat
-***
 
 상세
 --------
@@ -27,9 +26,6 @@
 - 2014년 2월의 총 매출액이 하락하여 기업에 큰 타격을 입었습니다. 
 - 3월에 총 매출이 다시 인상하지 않으면 기업은 감당할 수 없는 위험이 다가올 것으로 보입니다. 
 - 매출을 인상시키기 위해 카테고리별로 영향을 끼치는 요인을 찾아보고 분석하여 다음 달 매출을 증가시키기 위한 방안을 카테고리별로 제안하기 위해 분석을 진행했습니다.
-
-***
-### 2. 문제 인식
 - 2014년 2월 총 매출이 2014년 1월 총 매출에 비해 50% 가까이 떨어진 것을 알 수 있다.
 ![total](image/total.png)
 -------
